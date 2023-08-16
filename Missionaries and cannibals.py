@@ -1,5 +1,4 @@
 # Name - Sudarshan Kakad
-# Div - B
 # Number - 9307421907
 
 
