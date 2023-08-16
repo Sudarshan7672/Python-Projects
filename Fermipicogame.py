@@ -1,5 +1,4 @@
 # Name - Sudarshan kakad
-# Div - B 
 # Mobile - 9307421907
 
 print()
